@@ -42,3 +42,4 @@ Esse pipeline executa automaticamente os testes a cada push na branch principal.
 
 - Larissa de Almeida Pereira
 - Giovana Rodrigues dos Santos
+- Gustavo Jose Viana Lima de Barros
